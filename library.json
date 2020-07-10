@@ -1,0 +1,22 @@
+{
+  "name": "LEDMatrix8",
+  "keywords": "display, graphics, matrix, LED, spi",
+  "description": "Graphics Library for MAX7219 8x8 LED matrixes",
+  "authors": [
+    {
+        "name": "Frank Boesing",
+        "url": "https://github.com/FrankBoesing/",
+	"maintainer": true
+    }   
+  ],
+  "exclude": [
+    "extras"
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/FrankBoesing/LEDMatrix8.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
